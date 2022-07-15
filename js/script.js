@@ -60,7 +60,7 @@ Vue.component("banner-el",{
     `
 });
 
-Vue.component("contl-el",{
+Vue.component("cont1-el",{
     data : () => {
         return {
             movieList : [
